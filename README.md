@@ -1,2 +1,2 @@
 # PortScanner
-PortScanner in python
+PortScanner in python 3.8
