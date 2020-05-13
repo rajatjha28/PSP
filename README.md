@@ -1,2 +1,2 @@
 # PortScanner
-PortScanner in Cpp
+PortScanner in python
